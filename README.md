@@ -1,0 +1,2 @@
+# Mini-Shell
+This assignment helps you learn about processes and basic process management in a shell. You are asked to write a simple shell program called minish. This shell must work as follows. You start the shell by typing minish at the prompt. This will give a prompt of your shell as follows:  minish>  From here onwards, you should be able to execute and control any program/command just as you would in a normal shell. For instance  minish> ls  [ OUTPUT OF ls COMMAND SHOWN HERE ]
